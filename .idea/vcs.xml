@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/Programs/Circuits" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/deps/SimpleOT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/deps/libOTe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/deps/libOTe/cryptoTools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/deps/libOTe/cryptoTools/thirdparty/simde" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/deps/libOTe/cryptoTools/thirdparty/simde/test/munit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/deps/simde" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MP-SPDZ/deps/simde/test/munit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doe-suite" vcs="Git" />
+  </component>
+</project>

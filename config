@@ -1,0 +1,28 @@
+Host 0.0.0.0
+    IdentityFile ~/.ssh/id_ec_arc
+    User ubuntu
+    ForwardAgent yes
+    StrictHostKeyChecking no
+# 服务器配置（根据 Public IP 更新）
+# 服务器配置（根据 Public IP 更新）
+# 服务器配置（根据 Public IP 更新）
+Host n1
+    HostName 152.42.232.233
+    IdentityFile ~/.ssh/id_ec_arc
+    User ubuntu
+    ForwardAgent yes
+    StrictHostKeyChecking no
+
+Host n2
+    HostName 178.128.106.116
+    IdentityFile ~/.ssh/id_ec_arc
+    User ubuntu
+    ForwardAgent yes
+    StrictHostKeyChecking no
+
+Host n3
+    HostName 188.166.249.33
+    IdentityFile ~/.ssh/id_ec_arc
+    User ubuntu
+    ForwardAgent yes
+    StrictHostKeyChecking no

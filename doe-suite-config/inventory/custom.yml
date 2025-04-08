@@ -1,0 +1,17 @@
+---
+all:
+  children:
+    consistency:
+      hosts:
+        n1:
+          ansible_host: 152.42.232.233
+          ansible_user: ubuntu
+          private_dns_name: 10.104.0.2
+        n2:
+          ansible_host: 178.128.106.116
+          ansible_user: ubuntu
+          private_dns_name: 10.104.0.3
+        n3:
+          ansible_host: 188.166.249.33
+          ansible_user: ubuntu
+          private_dns_name: 10.104.0.4
